@@ -11,3 +11,9 @@
    incentivizing token usage and creating a mutually beneficial ecosystem.
 5. The BGT token acts as an admission ticket for zkDID, granting users access to the self-sovereign identity management
    feature while ensuring secure and private data management.
+
+## Our projects
+1. [BGT staking](https://github.com/bgttrade/bgt-staking) 
+2. [BGT swap](https://github.com/bgttrade/bgt-swap) 
+3. [BGT bridge](https://github.com/bgttrade/bgt-bridge) 
+4. [BGT otc](https://github.com/bgttrade/bgt-otc) 
